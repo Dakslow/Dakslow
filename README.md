@@ -1,4 +1,6 @@
+My Google bypass hub
 https://google.com/
+https://discord.com/
 <!--
 **Dakslow/Dakslow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
